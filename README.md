@@ -17,6 +17,6 @@ A range of deep neural network architectures and techniques are applied with the
 
 
 ## Acknowledgments
-The task uses a subset of the data that was published in: Prabhu, Vinay Uday. "Kannada-MNIST: A new handwritten digits dataset for the Kannada language." arXiv preprint arXiv:1908.01242 (2019).
+The task uses part of data that was published in: Prabhu, Vinay Uday. "Kannada-MNIST: A new handwritten digits dataset for the Kannada language." arXiv preprint arXiv:1908.01242 (2019).
 
 
