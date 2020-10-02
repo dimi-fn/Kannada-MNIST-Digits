@@ -22,5 +22,3 @@ Google colab with GPU
 
 ## Acknowledgments
 The project uses part of data that was published in: Prabhu, Vinay Uday. "Kannada-MNIST: A new handwritten digits dataset for the Kannada language." arXiv preprint arXiv:1908.01242 (2019).
-
-
