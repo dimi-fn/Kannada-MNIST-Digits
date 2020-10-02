@@ -10,9 +10,13 @@ The dataset used is an alternative one with regard to the popular MNIST digits d
 The format is similar to MNIST in terms of how the data is structured.
 
 ## Purpose
-The classification of the images of hand-written digits, and the prediction of those
+The classification of the images of hand-written digits, and the prediction of those numbers.
 
 ## Description
 A range of deep neural network architectures and techniques are applied with the final goal of finding the optimal model for the digits' predictions.
+
+
+## Acknowledgments
+The task uses a subset of the data that was published in: Prabhu, Vinay Uday. "Kannada-MNIST: A new handwritten digits dataset for the Kannada language." arXiv preprint arXiv:1908.01242 (2019).
 
 
