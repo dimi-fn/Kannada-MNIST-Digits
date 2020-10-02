@@ -17,6 +17,8 @@ A range of deep neural network architectures and techniques are applied with the
 
 Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pixels in total. Each pixel has a single pixel-value associated with it, indicating the lightness or darkness of that pixel, with higher numbers meaning darker. This pixel-value is an integer between 0 and 255, inclusive, and each pixel column in the training set has a name like pixel{x}, where x is an integer between 0 and 783, inclusive. Overall, there are 10 classes since the handwritten digits range from 0 to 9.
 
+## Environment
+Google colab with GPU
 
 ## Acknowledgments
 The project uses part of data that was published in: Prabhu, Vinay Uday. "Kannada-MNIST: A new handwritten digits dataset for the Kannada language." arXiv preprint arXiv:1908.01242 (2019).
