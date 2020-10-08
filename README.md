@@ -1,6 +1,6 @@
 # Kannada-Mnist
 
-This is a machine learning project using Deep Neural Networks (DNNs) and Convolutional Neural Networks (CNNs) with Keras, and more specifically, and it is about a classification problem for the prediction of hand-written digits. 
+This is a machine learning project using Deep Neural Networks (DNNs) and Convolutional Neural Networks (CNNs) with Keras, and more specifically, and it is about a classification problem for the recognition and prediction of hand-written digits. 
 ## Source
 The dataset used is an alternative one with regard to the popular [MNIST digits](https://conx.readthedocs.io/en/latest/MNIST.html) dataset, and the project was constructed in the context of a [kaggle class competition](https://www.kaggle.com/c/cs98x-kannada-mnist) (module CS985 Machine Learning) at Strathclyde University, academic year 2019-20.
 
