@@ -1,3 +1,8 @@
+### *Note:
+Due to a Github bug ([issue #3555](https://github.com/jupyter/notebook/issues/3555)), sometimes the notebook files (files with .ipynb) may not render. 
+
+Please reload the page until they do (sometimes it loads after one reload, some other times it might need a persistent refresh of the page until the content can be displayed).
+
 # Kannada-Mnist
 This is a machine learning project using Deep Neural Networks (DNNs) and Convolutional Neural Networks (CNNs) with Keras, and more specifically, it is about a classification problem in regard to the recognition and prediction of the Kannada MNIST hand-written digits. 
 ## Source
