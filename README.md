@@ -6,7 +6,7 @@ Please reload the page until the content can be displayed (sometimes it loads af
 # Kannada-Mnist
 This is a machine learning project using Deep Neural Networks (DNNs) and Convolutional Neural Networks (CNNs) with Keras, and more specifically, it is about a classification problem in regard to the recognition and prediction of the Kannada MNIST hand-written digits. 
 ## Source
-The dataset used is an alternative one with reference to the popular MNIST digits database, and the project was constructed in the context of a [kaggle class competition](https://www.kaggle.com/c/cs98x-kannada-mnist) (module CS985 Machine Learning) at Strathclyde University (academic year 2019-20).
+The dataset used is an alternative one with reference to the popular MNIST digits database, and the project was constructed in the context of a kaggle class competition (module CS985 Machine Learning) at Strathclyde University (academic year 2019-20).
 
 ["Kannada"](https://en.wikipedia.org/wiki/Kannada) is a language spoken predominantly by people of Karnataka in southwestern India. The language has roughly 45 million native speakers and is written using the Kannada script.
 
