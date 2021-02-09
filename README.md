@@ -1,7 +1,7 @@
 ### *Note:
 Due to a GitHub bug (issue [#3035](https://github.com/jupyter/notebook/issues/3035) & [#3555](https://github.com/jupyter/notebook/issues/3555)), sometimes the notebook files (files ending in ".ipynb") may not render. Please reload the [page](https://github.com/dimi-fn/Kannada-MNIST-Digits/blob/main/Kannada_Mnist_Digits.ipynb) until the content can be displayed, or click [here](https://colab.research.google.com/drive/1Rk233-YuZBDA8GyvnDVmcTq7sRQz2RK6) to view the shared Google Colab notebook file.
 
-# Kannada-Mnist
+# Kannada - Mnist
 This is a Machine Learning project using *Deep Neural Networks* (DNNs) and *Convolutional Neural Networks* (CNNs) with [Tensorflow](https://www.tensorflow.org/) and [Keras](https://keras.io/). More specifically, it is about a classification problem in regard to the recognition and prediction of the Kannada MNIST hand-written digits. 
 
 ## Source
@@ -19,7 +19,3 @@ The classification of the images of hand-written digits, and the prediction of t
 
 ## Environment
 Google colab with GPU
-
-
-
-
